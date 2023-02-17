@@ -28,7 +28,6 @@
 
 -   Web-based administration
 -   Delegate permissions (Host/Tasks, Groups/Users)
--   Support for MySQL, Azure SQL, Microsoft SQL Server and Microsoft SQL on AWS RDS - MySQL included at no additional cost
 -   Simplified audit logging and reporting
 
 ##### Automation & Productivity
