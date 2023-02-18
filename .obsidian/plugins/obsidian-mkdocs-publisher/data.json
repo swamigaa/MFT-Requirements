@@ -1,7 +1,7 @@
 {
-  "githubRepo": "",
-  "githubName": "",
-  "GhToken": "",
+  "githubRepo": "MFT-Requirements",
+  "githubName": "swamigaa",
+  "GhToken": "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",
   "githubBranch": "main",
   "shareKey": "share",
   "excludedFolder": [],

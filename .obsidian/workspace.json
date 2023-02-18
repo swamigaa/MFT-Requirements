@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cc1eabf03cf97f44",
+        "id": "b9a6f57e856bf74e",
         "type": "tabs",
         "children": [
           {
-            "id": "0f3b2fdd602e663b",
+            "id": "ff9b969da43ec2f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Features in the current Transfer Server.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Features in the current Transfer Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Features in the current Transfer Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Features in the current Transfer Server.md"
+              }
             }
           }
         ]
@@ -138,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f3b2fdd602e663b",
+  "active": "fe58096fd5cc8cbd",
   "lastOpenFiles": [
     "Features in the current scheduler which are used.md",
-    "Transfer Server.md",
+    "Features in the current Transfer Server.md",
+    "2023-02-18.md",
     "README.md",
     "Untitled.canvas"
   ]
