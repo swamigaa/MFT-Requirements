@@ -19,4 +19,6 @@ Integration: The MFT software should integrate easily with other systems, includ
 
 Usability: The MFT software should have a user-friendly interface and be easy to configure, deploy and manage.
 
+Migration:  We need support to help migrate from current proprietery tool to the new solution. 
+
 Support: The vendor should offer a good reputation for customer support, including training, documentation, and technical assistance. They should be able to provide a service level agreement (SLA) with defined response and resolution times for issues.
