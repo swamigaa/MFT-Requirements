@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5854d3a3d445e392",
+        "id": "387fd61c5bb622a7",
         "type": "tabs",
         "children": [
           {
-            "id": "f78025c0654a921a",
+            "id": "d3cc1f1de906699d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Summary of the requirements for the new solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
-                "collapseAll": true,
+                "file": "Summary of the requirements for the new solution.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Summary of the requirements for the new solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Summary of the requirements for the new solution.md"
               }
             }
           }
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f78025c0654a921a",
+  "active": "d3cc1f1de906699d",
   "lastOpenFiles": [
-    "Features in the current Transfer Server.md",
     "README.md",
+    "Summary of the requirements for the new solution.md",
     "Features in the current scheduler which are used.md",
-    "2023-02-18.md",
+    "Features in the current Transfer Server.md",
+    "Transfer Server.md",
     "Untitled.canvas"
   ]
 }
