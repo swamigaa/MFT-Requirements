@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "833385c59768efec",
+        "id": "c66bab20dbe5338c",
         "type": "tabs",
         "children": [
           {
-            "id": "d093f62c262213ae",
+            "id": "7a55789682482592",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -58,6 +58,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "15ca8ce61c9c5926",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
