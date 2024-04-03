@@ -1,6 +1,8 @@
 
 Security: The MFT software should support various security protocols and encryption standards to ensure the secure transfer of sensitive data. It should have features such as encryption at rest and in transit, digital signatures, and the ability to use secure FTP (SSHFTP) , Azure Blob, AWS S3, GCP (google storage) etc.
 
+Integration with secrets management: Hashicorp Vault, Azure key vault etc
+
 LDAP/AD iNTEGRATION: Solution should support LDAP/AD integration as source for user accounts.
 
 Reliability: The MFT software should provide reliable and error-free file transfer. It should include features such as automatic retries and error recovery, ensuring that even large files are successfully transferred without loss of data.
