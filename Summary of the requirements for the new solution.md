@@ -1,4 +1,3 @@
-
 Security: The MFT software should support various security protocols and encryption standards to ensure the secure transfer of sensitive data. It should have features such as encryption at rest and in transit, digital signatures, and the ability to use secure FTP (SSHFTP) , Azure Blob, AWS S3, GCP (google storage) etc.
 
 Integration with secrets management: Hashicorp Vault, Azure key vault etc
@@ -12,6 +11,8 @@ The scheduler and the FTPS/SSHFTP server should support high availability.
 Automation/Job Scheduler : The MFT software should have the ability to automate file transfers and workflows, including scheduling and automation capabilities. It should also be able to trigger workflows based on events such as file arrival or system events.
 
 Runtime: Solution should support containerized deployment option: Kubernetes
+
+P2P - person-to person secure file transfer interactions which supports encryption, attachment offloading, secure messaging. 
 
 Scalability: The MFT software should be able to scale according to the volume of data and number of users. It should be able to handle the current and future requirements of the organization.
 
